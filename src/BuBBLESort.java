@@ -16,6 +16,6 @@ public class BuBBLESort {
             System.out.print(a[i] + " ");
         }
 
-        //
+        //注释
     }
 }
