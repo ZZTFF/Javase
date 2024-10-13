@@ -1,3 +1,4 @@
+//注释
 public class VarParameter {
     public static void main(String[] args) {
         HspMethod hm = new HspMethod();
